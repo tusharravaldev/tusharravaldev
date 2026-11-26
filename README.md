@@ -25,7 +25,7 @@ I enjoy combining thoughtful interfaces with reliable backend systems.
 ## Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,mongodb,sqlite,postgresql,git,github,webstorm,pycharm,clion,idea,vscodium,vscode" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,mongodb,sqlite,postgresql,git,github,webstorm,pycharm,clion,idea,notion,obsidian,vscodium,vscode" alt="My Skills" />
 </p>
 
 
