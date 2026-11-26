@@ -18,8 +18,6 @@ I enjoy combining thoughtful interfaces with reliable backend systems.
 
 <br/>
 
-**Based in India** &nbsp;·&nbsp; **Open to freelance projects**
-
 </div>
 
 ## Skills
