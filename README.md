@@ -1,5 +1,8 @@
 <div align="center">
 
+<p>
+  <img src="https://papaya-semolina-71c6c2.netlify.app/img/Gemini_Generated_Image_unpnxkunpnxkunpn.png" alt="Profile Views" />
+</p>
 # Hi, I'm Tushar Raval
 
 ### Full-Stack Developer & Designer
